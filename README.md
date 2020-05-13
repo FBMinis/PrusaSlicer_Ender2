@@ -4,7 +4,9 @@ A profile for Creality Ender 2 to use in Prusa Slicer.
 
 > Import Config Bundle
 
-Settings (Printer+  PLA 1.7mm + 0.2mm resolution), will appear.
+Settings (Printer+  PLA 1.7mm + Resolution), will appear.
+
+Available resolutions: 0.12mm; 0.20; 0.28mm.
 
 (Print something sliced with Cura 4.5, then with Prusa Slicer. Behaviour and print quality should be the same.)
 
